@@ -86,8 +86,6 @@ I'm a passionate Computer Science undergraduate (Bennett University, 2026) with 
   Engineered real-time radar image processing pipeline for ISRO using TensorFlow & OpenCV, improving imaging accuracy by 40%.
   👉 *[View Repository](https://github.com/sahniaditya007/SAR-ISRO.git)*
 
-- **Stock Market Analysis & Predictor**  
-  Designed predictive stock analysis tools using Vite-React and visualization dashboards, serving 5,000+ daily users.
 
 ---
 

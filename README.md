@@ -19,63 +19,79 @@
 
 ## 🔧 Technical Skills
 
-<p>
-  <b>Languages:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
-</p>
-<p>
-  <b>Frameworks & Libraries:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" width="30" alt="Tkinter"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="30" alt="Hugging Face Transformers"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" width="30" alt="LangChain"/>
-</p>
-<p>
-  <b>Databases:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
-</p>
-<p>
-  <b>Cloud Platforms:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" alt="GCP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" alt="Azure"/>
-</p>
-<p>
-  <b>Tools:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="Unix"/>
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> C++ &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> SQL &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML5 &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS3
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> React.js &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="25"/> Flask &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="25"/> PyTorch &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="25"/> TensorFlow &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="25"/> OpenCV &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Tkinter-Python%20GUI-2c8ebb?style=flat&logo=python" height="25"/> Tkinter &nbsp;&nbsp;
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="25"/> Hugging Face &nbsp;&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/114370097?s=200&v=4" width="25"/> LangChain
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud Platforms</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="25"/> AWS &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="25"/> GCP &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25"/> Azure
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> GitHub &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> VS Code &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Unix
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 CrossViewID: Multi-Camera Player Tracking System
+### 🎯 CrossViewID: Multi-Camera Player Tracking System  
 A deep learning pipeline for real-time multi-camera player identification using PyTorch and OpenCV. **Achieved 90% spatial accuracy** via CNNs, Siamese networks, and geometric calibration.
 
-### 📈 Stock Sense: Multi-Agent Stock Query System
+### 📈 Stock Sense: Multi-Agent Stock Query System  
 Modular NLP-driven Flask app that answers user stock queries using real-time data from Alpha Vantage & NewsAPI. Features agent orchestration, intelligent summarization, and dual input modes (chat + structured).
 
-### 🔐 Thrain: Encrypted Text Transfer System
+### 🔐 Thrain: Encrypted Text Transfer System  
 Secure text/file sharing using Diffie-Hellman and AES, deployed via AWS Lambda + S3. Offers web (Flask) and desktop (Tkinter) interfaces with live encryption/decryption and key rotation.
 
 ---
 
 ## 🧠 Additional Work
 
-- **CryptoPilot:** Crypto trend prediction system using LSTM, GRU; improved prediction accuracy by 15%.
+- **CryptoPilot:** Crypto trend prediction system using LSTM, GRU; improved prediction accuracy by 15%.  
 - **Todo App:** WCAG-compliant task tracker with mobile-first responsive UI and component-based React architecture.
 
 ---
@@ -95,5 +111,3 @@ Secure text/file sharing using Diffie-Hellman and AES, deployed via AWS Lambda +
 
 I'm always open to collaboration and opportunities in AI/ML, full-stack development, or product-driven roles.  
 📬 Drop me a message on [LinkedIn](https://www.linkedin.com/in/aditya-sahni-113605255) or check out my work on [GitHub](https://github.com/sahniaditya007)!
-
----
